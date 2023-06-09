@@ -4,7 +4,7 @@ import './App.css';
 
 
 
-const API_KEY = process.env.REACT_APP_API_KEY;; // Replace with your actual OpenAI API key
+const API_KEY = process.env.REACT_APP_API_KEY;
 const API_ENDPOINT = 'https://api.openai.com/v1/completions';
 
 function App() {
